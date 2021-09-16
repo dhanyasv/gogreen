@@ -1,0 +1,12 @@
+.banner {
+    height:300px;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+  background-color: white;
+    /* background:url('../../../public/images/banner.jpeg'); */
+}
+.banner-img {
+    max-width: 100%;
+  height: 300px;
+}
